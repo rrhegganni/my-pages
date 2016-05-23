@@ -1,0 +1,19 @@
+{
+  "name": "my-pages",
+  "version": "1.0.0",
+  "description": "These inlcudes all the tech i learned",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrhegganni/my-pages.git"
+  },
+  "author": "Rakesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrhegganni/my-pages/issues"
+  },
+  "homepage": "https://github.com/rrhegganni/my-pages#readme"
+}
